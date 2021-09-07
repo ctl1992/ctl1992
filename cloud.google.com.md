@@ -8,6 +8,9 @@ INSTALL_CINNAMON=yes
 
 INSTALL_FULL_DESKTOP=yes
 
+继续设置
+
+https://cloud.google.com/architecture/chrome-desktop-remote-on-compute-engine#configuring_and_starting_the_chrome_remote_desktop_service
 
 #putty命令行工具链接
 
