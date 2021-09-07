@@ -32,5 +32,11 @@ sudo apt install python3-pip
 
 mkdir Python3Projects
 
+git clone https://github.com/ctl1992/gTTS_ixibanyayu.com.git
+
+cd gTTS_ixibanyayu.com
+
+python3 a1.py
+
 pip3 install --user pandas
 
