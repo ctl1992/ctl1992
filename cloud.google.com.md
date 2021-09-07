@@ -27,7 +27,7 @@ https://cloud.google.com/compute/docs/instances/connecting-advanced#windows-putt
 
 sudo passwd # 修改root密码，好像不能删除密码
 
-sudo apt-get install git-all # 此命令后无法google remote desktop, 可能是因为git修改了ssh秘钥，或者安装冲突，卸载了google remote desktop
+sudo apt-get install git # 此命令后好像无法google remote desktop, 可能是因为git修改了ssh秘钥，或者安装冲突，卸载了google remote desktop
 
 # 重新安装google remote desktop
 
