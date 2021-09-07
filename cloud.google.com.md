@@ -2,6 +2,10 @@
 
 https://cloud.google.com/architecture/chrome-desktop-remote-on-compute-engine#automating_the_installation_process
 
+#远程桌面
+
+https://remotedesktop.google.com/headless
+
 pin码六个六
 
 sudo passwd -d root
