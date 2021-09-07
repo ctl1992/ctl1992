@@ -1,4 +1,4 @@
-#可控列表快捷方式：
+#可控列表快捷方式, pin码六个六：
 
 https://remotedesktop.google.com/access
 
@@ -21,8 +21,7 @@ https://cloud.google.com/architecture/chrome-desktop-remote-on-compute-engine#co
 https://cloud.google.com/compute/docs/instances/connecting-advanced#windows-putty
 
 
-
-pin码六个六
+#开机继续安装软件
 
 sudo passwd -d root
 
