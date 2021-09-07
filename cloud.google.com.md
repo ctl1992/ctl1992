@@ -35,6 +35,8 @@ sudo apt-get install --assume-yes --fix-broken
 
 sudo dpkg --install /tmp/chrome-remote-desktop_current_amd64.deb
 
+# 继续安装软件
+
 sudo apt install python3-pip
 
 mkdir Python3Projects
