@@ -10,5 +10,7 @@ sudo apt-get install git-all
 
 sudo apt install python3-pip
 
-sudo pip3 install pandas
+mkdir Python3Projects
+
+pip3 install --user pandas
 
