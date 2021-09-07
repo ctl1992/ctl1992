@@ -23,7 +23,7 @@ https://cloud.google.com/compute/docs/instances/connecting-advanced#windows-putt
 
 #开机继续安装软件
 
-sudo passwd -d root
+sudo passwd # 修改root密码，好像不能删除
 
 sudo apt-get install git-all
 
