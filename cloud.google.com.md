@@ -12,7 +12,7 @@ INSTALL_CINNAMON=yes
 
 INSTALL_FULL_DESKTOP=yes
 
-继续设置
+继续设置，疑似与google cloud监控软件冲突
 
 https://cloud.google.com/architecture/chrome-desktop-remote-on-compute-engine#configuring_and_starting_the_chrome_remote_desktop_service
 
