@@ -8,6 +8,8 @@ https://cloud.google.com/architecture/chrome-desktop-remote-on-compute-engine#au
 
 注意设置：
 
+硬盘100G
+
 INSTALL_CINNAMON=yes
 
 INSTALL_FULL_DESKTOP=yes
