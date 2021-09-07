@@ -10,6 +10,7 @@ INSTALL_FULL_DESKTOP=yes
 
 
 #putty命令行工具链接
+
 https://cloud.google.com/compute/docs/instances/connecting-advanced#windows-putty
 
 #远程桌面
