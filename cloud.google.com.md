@@ -1,4 +1,8 @@
-#自动化配置远程桌面
+#可控列表快捷方式：
+
+https://remotedesktop.google.com/access
+
+#被控端自动化脚本
 
 https://cloud.google.com/architecture/chrome-desktop-remote-on-compute-engine#automating_the_installation_process
 
@@ -16,9 +20,7 @@ https://cloud.google.com/architecture/chrome-desktop-remote-on-compute-engine#co
 
 https://cloud.google.com/compute/docs/instances/connecting-advanced#windows-putty
 
-#远程桌面
 
-https://remotedesktop.google.com/headless
 
 pin码六个六
 
