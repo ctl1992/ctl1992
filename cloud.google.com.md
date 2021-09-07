@@ -2,6 +2,9 @@
 
 https://cloud.google.com/architecture/chrome-desktop-remote-on-compute-engine#automating_the_installation_process
 
+#putty命令行工具链接
+https://cloud.google.com/compute/docs/instances/connecting-advanced#windows-putty
+
 #远程桌面
 
 https://remotedesktop.google.com/headless
