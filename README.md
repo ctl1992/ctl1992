@@ -6,3 +6,4 @@
 
 我的視頻：https://youtu.be/vfeV-tetsc0
 
+[Tiny dose nervous system stimulants Cocaine may cure neurotropic coronavirus.pdf](https://github.com/ctl1992/ctl1992/files/7131582/Tiny.dose.nervous.system.stimulants.Cocaine.may.cure.neurotropic.coronavirus.pdf)
