@@ -69,7 +69,7 @@ INSTALL_CHROME=yes
 INSTALL_FULL_DESKTOP=yes
 
 # apt-get install --assume-yes $EXTRA_PACKAGES
-EXTRA_PACKAGES="less bzip2 zip unzip tasksel wget python3-pip gedit git"
+EXTRA_PACKAGES="less bzip2 zip unzip tasksel wget"
 
 apt-get update
 
@@ -111,8 +111,6 @@ sudo apt-get install git # 此命令后好像无法google remote desktop, 可能
 
 # 继续安装软件
 
-sudo apt install python3-pip gedit git
-
 mkdir Python3Projects
 
 cd Python3Projects
@@ -121,9 +119,10 @@ git clone https://github.com/ctl1992/gTTS_ixibanyayu.com.git
 
 cd gTTS_ixibanyayu.com
 
+pip3 install --user selenium gTTs num2words xlwt xlrd pandas #耗时较长
+
 python3 a1.py
 
-pip3 install --user selenium gTTs num2words xlwt xlrd pandas #耗时较长
 
 
 # 安装chromedriver
