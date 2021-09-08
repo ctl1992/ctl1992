@@ -126,9 +126,7 @@ cd gTTS_ixibanyayu.com
 
 python3 a1.py
 
-pip3 install --user selenium gTTs num2words xlwt xlrd
-
-pip3 install --user pandas #耗时较长
+pip3 install --user selenium gTTs num2words xlwt xlrd pandas #耗时较长
 
 
 # 安装chromedriver
