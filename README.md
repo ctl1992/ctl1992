@@ -6,5 +6,5 @@
 
 我的視頻：https://youtu.be/vfeV-tetsc0
 
-![some discription](https://github.com/ctl1992/ctl1992/blob/1a3b9940fa7b2e58845a82af9e82a13238371308/Tiny%20dose%20nervous%20system%20stimulants%20Cocaine%20may%20cure%20neurotropic%20coronavirus.pdf "some discription")
+![some discription](Tiny dose nervous system stimulants Cocaine may cure neurotropic coronavirus.pdf "some discription")
 
