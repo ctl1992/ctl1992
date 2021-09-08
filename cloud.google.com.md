@@ -14,7 +14,7 @@ INSTALL_CINNAMON=yes
 
 INSTALL_FULL_DESKTOP=yes
 
-···
+```
 #!/bin/bash -x
 #
 # Startup script to install Chrome remote desktop and a desktop environment.
@@ -91,7 +91,7 @@ install_desktop_env
     /tmp/google-chrome-stable_current_amd64.deb
 
 echo "Chrome remote desktop installation completed"
-···
+```
 
 继续设置
 
