@@ -37,7 +37,7 @@ sudo dpkg --install /tmp/chrome-remote-desktop_current_amd64.deb
 
 # 继续安装软件
 
-sudo apt install python3-pip
+sudo apt install python3-pip gedit
 
 mkdir Python3Projects
 
@@ -47,6 +47,19 @@ cd gTTS_ixibanyayu.com
 
 python3 a1.py
 
+pip3 install --user selenium gTTs num2words xlwt xlrd
+
 pip3 install --user pandas #耗时较长
 
 
+# 安装chromedriver
+
+unzip chromedriver_linux64.zip
+
+echo $PATH # 将chromedriver放置在/usr/bin下
+
+sudo mv chromedriver /usr/bin
+
+cd /usr/bin
+
+ls -l | less
