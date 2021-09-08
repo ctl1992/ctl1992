@@ -4,6 +4,6 @@
 
 我的論文：http://jmrhs.info/index.php/jmrhs/article/view/346
 
-https://github.com/ctl1992/ctl1992/blob/ef62003237127ca0d253e1dfdc42dea240be6ebb/Tiny%20dose%20nervous%20system%20stimulants%20Cocaine%20may%20cure%20neurotropic%20coronavirus.pdf
+https://github.com/ctl1992/ctl1992/blob/main/Tiny%20dose%20nervous%20system%20stimulants%20Cocaine%20may%20cure%20neurotropic%20coronavirus.pdf
 
 我的視頻：https://youtu.be/vfeV-tetsc0
