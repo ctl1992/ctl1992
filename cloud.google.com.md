@@ -104,13 +104,6 @@ https://cloud.google.com/compute/docs/instances/connecting-advanced#windows-putt
 
 # 开机继续安装软件
 
-sudo passwd # 修改root密码，好像不能删除密码
-
-sudo apt-get install git # 此命令后好像无法google remote desktop, 可能是因为git修改了ssh秘钥，或者安装冲突，卸载了google remote desktop
-
-
-# 继续安装软件
-
 mkdir Python3Projects
 
 cd Python3Projects
