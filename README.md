@@ -6,3 +6,8 @@
 
 我的視頻：https://youtu.be/vfeV-tetsc0
 
+<object data="Tiny dose nervous system stimulants Cocaine may cure neurotropic coronavirus.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="Tiny dose nervous system stimulants Cocaine may cure neurotropic coronavirus.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="Tiny dose nervous system stimulants Cocaine may cure neurotropic coronavirus.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
