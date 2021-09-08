@@ -64,7 +64,7 @@ function is_installed {  # args PACKAGE_NAME
 
 # Configure the following environmental variables as required:
 INSTALL_XFCE=yes
-INSTALL_CINNAMON=yes
+INSTALL_CINNAMON=no
 INSTALL_CHROME=yes
 INSTALL_FULL_DESKTOP=yes
 
@@ -108,17 +108,14 @@ sudo passwd # 修改root密码，好像不能删除密码
 
 sudo apt-get install git # 此命令后好像无法google remote desktop, 可能是因为git修改了ssh秘钥，或者安装冲突，卸载了google remote desktop
 
-# 重新安装google remote desktop
-
-sudo apt-get install --assume-yes --fix-broken
-
-sudo dpkg --install /tmp/chrome-remote-desktop_current_amd64.deb
 
 # 继续安装软件
 
 sudo apt install python3-pip gedit git
 
 mkdir Python3Projects
+
+cd Python3Projects
 
 git clone https://github.com/ctl1992/gTTS_ixibanyayu.com.git
 
@@ -140,3 +137,9 @@ sudo mv chromedriver /usr/bin
 cd /usr/bin
 
 ls -l | less
+
+# 重新安装google remote desktop
+
+sudo apt-get install --assume-yes --fix-broken
+
+sudo dpkg --install /tmp/chrome-remote-desktop_current_amd64.deb
