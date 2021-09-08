@@ -6,8 +6,5 @@
 
 我的視頻：https://youtu.be/vfeV-tetsc0
 
-<object data="https://github.com/ctl1992/ctl1992/blob/1a3b9940fa7b2e58845a82af9e82a13238371308/Tiny%20dose%20nervous%20system%20stimulants%20Cocaine%20may%20cure%20neurotropic%20coronavirus.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/ctl1992/ctl1992/blob/1a3b9940fa7b2e58845a82af9e82a13238371308/Tiny%20dose%20nervous%20system%20stimulants%20Cocaine%20may%20cure%20neurotropic%20coronavirus.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/ctl1992/ctl1992/blob/1a3b9940fa7b2e58845a82af9e82a13238371308/Tiny%20dose%20nervous%20system%20stimulants%20Cocaine%20may%20cure%20neurotropic%20coronavirus.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+![some discription](https://github.com/ctl1992/ctl1992/blob/1a3b9940fa7b2e58845a82af9e82a13238371308/Tiny%20dose%20nervous%20system%20stimulants%20Cocaine%20may%20cure%20neurotropic%20coronavirus.pdf "some discription")
+
