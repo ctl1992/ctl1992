@@ -1,3 +1,5 @@
+# https://cloud.google.com/compute
+
 # 可控列表快捷方式, pin码六个六：
 
 https://remotedesktop.google.com/access
