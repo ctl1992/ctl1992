@@ -6,5 +6,3 @@
 
 我的視頻：https://youtu.be/vfeV-tetsc0
 
-![some discription](Tiny dose nervous system stimulants Cocaine may cure neurotropic coronavirus.pdf "some discription")
-
